@@ -9,22 +9,22 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/juniHub/todolist-localstorage.svg?style=for-the-badge
-[contributors-url]: https://github.com/juniHub/todolist-localstorage/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/juniHub/todolist-localstorage.svg?style=for-the-badge
-[forks-url]: https://github.com/juniHub/todolist-localstorage/network/members
-[stars-shield]: https://img.shields.io/github/stars/juniHub/todolist-localstorage.svg?style=for-the-badge
-[stars-url]: https://github.com/juniHub/todolist-localstorage/stargazers
-[issues-shield]: https://img.shields.io/github/issues/juniHub/todolist-localstorage.svg?style=for-the-badge
-[issues-url]: https://github.com/juniHub/todolist-localstorage/issues
-[license-shield]: https://img.shields.io/github/license/juniHub/todolist-localstorage.svg?style=for-the-badge
-[license-url]: https://github.com/juniHub/todolist-localstorage/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/juniHub/todolist-localstorage-V1.svg?style=for-the-badge
+[contributors-url]: https://github.com/juniHub/todolist-localstorage-V1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/juniHub/todolist-localstorage-V1.svg?style=for-the-badge
+[forks-url]: https://github.com/juniHub/todolist-localstorage-V1/network/members
+[stars-shield]: https://img.shields.io/github/stars/juniHub/todolist-localstorage-V1.svg?style=for-the-badge
+[stars-url]: https://github.com/juniHub/todolist-localstorage-V1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/juniHub/todolist-localstorage-V1.svg?style=for-the-badge
+[issues-url]: https://github.com/juniHub/todolist-localstorage-V1/issues
+[license-shield]: https://img.shields.io/github/license/juniHub/todolist-localstorage-V1.svg?style=for-the-badge
+[license-url]: https://github.com/juniHub/todolist-localstorage-V1/blob/master/LICENSE.txt
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/juniHub/todolist-localstorage">
+  <a href="https://github.com/juniHub/todolist-localstorage-V1">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -33,15 +33,15 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/juniHub/todolist-localstorage"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/juniHub/todolist-localstorage-V1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://junihub.github.io/todolist-localstorage/" target="_blank">View Demo</a>
+    <a href="https://junihub.github.io/todolist-localstorage-V1/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/juniHub/todolist-localstorage
+    <a href="https://github.com/juniHub/todolist-localstorage-V1
 /issues">Report Bug</a>
     ·
-    <a href="https://github.com/juniHub/todolist-localstorage
+    <a href="https://github.com/juniHub/todolist-localstorage-V1
 /issues">Request Feature</a>
   </p>
 </p>
@@ -106,7 +106,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/juniHub/todolist-localstorage.git
+   git clone https://github.com/juniHub/todolist-localstorage-V1.git
    ```
    
 2. Install NPM packages
@@ -124,7 +124,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/juniHub/todolist-localstorage/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/juniHub/todolist-localstorage-V1/issues) for a list of proposed features (and known issues).
 
 
 
@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Juni Nguyen - [hellojuninguyen](hellojuninguyen@gmail.com)
 
-Project Link: [https://github.com/juniHub/todolist-localstorage](https://github.com/juniHub/todolist-localstorage)
+Project Link: [https://github.com/juniHub/todolist-localstorage-V1](https://github.com/juniHub/todolist-localstorage-V1)
 
 
 
