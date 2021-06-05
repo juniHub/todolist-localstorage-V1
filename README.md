@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Juni Nguyen - [hellojuninguyen](hellojuninguyen@gmail.com)
+Juni Nguyen - [hello Juni](hellojuninguyen@gmail.com)
 
 Project Link: [https://github.com/juniHub/todolist-localstorage-V1](https://github.com/juniHub/todolist-localstorage-V1)
 
