@@ -36,7 +36,7 @@
     <a href="https://github.com/juniHub/todolist-localstorage-V1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://junihub.github.io/todolist-localstorage-V1/" target="_blank">View Demo</a>
+    <a href="https://todo-localstorage-v1.netlify.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/juniHub/todolist-localstorage-V1
 /issues">Report Bug</a>
